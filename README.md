@@ -26,8 +26,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 
-### Developed By: DEEPAK RAJ S
-### Register Number: 212222240023
+### Developed By: Jeevanesh
+### Register Number: 212222243002
 
 ### Colour and Gray Image:
 ```
